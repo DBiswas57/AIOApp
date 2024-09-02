@@ -1,0 +1,64 @@
+{
+  "files": [
+    {
+      "name": "AioFunc.dll",
+      "version": "1.0.0.0",
+      "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AioFunc.dll",
+      "size": 123456
+    },
+    {
+      "name": "BencodeNET.dll",
+      "version": "2.1.0.0",
+      "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/BencodeNET.dll",
+      "size": 654321
+    },
+    {
+      "name": "HtmlAgilityPack.dll",
+      "version": "3.0.0.0",
+      "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/HtmlAgilityPack.dll",
+      "size": 234567
+    },
+    {
+      "name": "Magick.NET-Q16-AnyCPU.dll",
+      "version": "4.5.0.0",
+      "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.NET-Q16-AnyCPU.dll",
+      "size": 345678
+    },
+    {
+      "name": "Magick.NET.Core.dll",
+      "version": "5.1.0.0",
+      "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.NET.Core.dll",
+      "size": 456789
+    },
+    {
+      "name": "Magick.Native-Q16-arm64.dll",
+      "version": "6.2.0.0",
+      "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.Native-Q16-arm64.dll",
+      "size": 567890
+    },
+    {
+      "name": "Magick.Native-Q16-x64.dll",
+      "version": "7.3.0.0",
+      "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.Native-Q16-x64.dll",
+      "size": 678901
+    },
+    {
+      "name": "Magick.Native-Q16-x86.dll",
+      "version": "8.4.0.0",
+      "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.Native-Q16-x86.dll",
+      "size": 789012
+    },
+    {
+      "name": "Newtonsoft.Json.dll",
+      "version": "9.5.0.0",
+      "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Newtonsoft.Json.dll",
+      "size": 890123
+    },
+    {
+      "name": "AIOApp.exe",
+      "version": "10.6.0.0",
+      "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AIOApp.exe",
+      "size": 901234
+    }
+  ]
+}
