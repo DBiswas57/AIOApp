@@ -4,61 +4,61 @@
       "name": "AioFunc.dll",
       "version": "1.0.0.0",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AioFunc.dll",
-      "size": 123456
+      "size": 183808
     },
     {
       "name": "BencodeNET.dll",
-      "version": "2.1.0.0",
+      "version": "2.2.1.0",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/BencodeNET.dll",
-      "size": 654321
+      "size": 48128
     },
     {
       "name": "HtmlAgilityPack.dll",
-      "version": "3.0.0.0",
+      "version": "1.11.64",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/HtmlAgilityPack.dll",
-      "size": 234567
+      "size": 171008
     },
     {
       "name": "Magick.NET-Q16-AnyCPU.dll",
-      "version": "4.5.0.0",
+      "version": "13.10.0",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.NET-Q16-AnyCPU.dll",
-      "size": 345678
+      "size": 923432
     },
     {
       "name": "Magick.NET.Core.dll",
-      "version": "5.1.0.0",
+      "version": "13.10.0",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.NET.Core.dll",
-      "size": 456789
+      "size": 1531320
     },
     {
       "name": "Magick.Native-Q16-arm64.dll",
-      "version": "6.2.0.0",
+      "version": "7.1.1.35",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.Native-Q16-arm64.dll",
-      "size": 567890
+      "size": 22327464
     },
     {
       "name": "Magick.Native-Q16-x64.dll",
-      "version": "7.3.0.0",
+      "version": "7.1.1.35",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.Native-Q16-x64.dll",
-      "size": 678901
+      "size": 24954664
     },
     {
       "name": "Magick.Native-Q16-x86.dll",
-      "version": "8.4.0.0",
+      "version": "7.1.1.35",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.Native-Q16-x86.dll",
-      "size": 789012
+      "size": 21308712
     },
     {
       "name": "Newtonsoft.Json.dll",
-      "version": "9.5.0.0",
+      "version": "13.0.1.25517",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Newtonsoft.Json.dll",
-      "size": 890123
+      "size": 701992
     },
     {
       "name": "AIOApp.exe",
-      "version": "10.6.0.0",
+      "version": "1.0.0.0",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AIOApp.exe",
-      "size": 901234
+      "size": 670720
     }
   ]
 }
