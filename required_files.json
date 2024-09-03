@@ -5,63 +5,63 @@
       "version": "1.0.0.0",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AioFunc.dll",
       "size": 183808,
-      "md5": "4d0994064ed9d68df5b5cc3f297f0f6c"
+      "md5": "c940c59dd798aa7237d92ab06ab7747d"
     },
     {
       "name": "BencodeNET.dll",
       "version": "2.2.1.0",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/BencodeNET.dll",
       "size": 48128,
-      "md5": "4d0994064ed9d68df5b5cc3f297f0f6c"
+      "md5": "64cf723b5cd868d14b6b009e3dced913"
     },
     {
       "name": "HtmlAgilityPack.dll",
       "version": "1.11.64",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/HtmlAgilityPack.dll",
       "size": 171008,
-      "md5": "4d0994064ed9d68df5b5cc3f297f0f6c"
+      "md5": "99a8a1b9bd2a9473b0dcb26a1386e7e8"
     },
     {
       "name": "Magick.NET-Q16-AnyCPU.dll",
       "version": "13.10.0",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.NET-Q16-AnyCPU.dll",
       "size": 923432,
-      "md5": "4d0994064ed9d68df5b5cc3f297f0f6c"
+      "md5": "63454dd8a1f5fd655b9d4060d3149823"
     },
     {
       "name": "Magick.NET.Core.dll",
       "version": "13.10.0",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.NET.Core.dll",
       "size": 1531320,
-      "md5": "4d0994064ed9d68df5b5cc3f297f0f6c"
+      "md5": "5f2949a505fb45ad6cb4e5635dd5470a"
     },
     {
       "name": "Magick.Native-Q16-arm64.dll",
       "version": "7.1.1.35",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.Native-Q16-arm64.dll",
       "size": 22327464,
-      "md5": "4d0994064ed9d68df5b5cc3f297f0f6c"
+      "md5": "582808f9aeafd42939f14783c96a03d1"
     },
     {
       "name": "Magick.Native-Q16-x64.dll",
       "version": "7.1.1.35",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.Native-Q16-x64.dll",
       "size": 24954664,
-      "md5": "4d0994064ed9d68df5b5cc3f297f0f6c"
+      "md5": "a04d17201ab95638ffd83db4822160e0"
     },
     {
       "name": "Magick.Native-Q16-x86.dll",
       "version": "7.1.1.35",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.Native-Q16-x86.dll",
       "size": 21308712,
-      "md5": "4d0994064ed9d68df5b5cc3f297f0f6c"
+      "md5": "fb6aaddbcf73789abefa37b3fc89d876"
     },
     {
       "name": "Newtonsoft.Json.dll",
       "version": "13.0.1.25517",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Newtonsoft.Json.dll",
       "size": 701992,
-      "md5": "4d0994064ed9d68df5b5cc3f297f0f6c"
+      "md5": "081d9558bbb7adce142da153b2d5577a"
     },
     {
       "name": "AIOApp.exe",
