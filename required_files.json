@@ -4,61 +4,78 @@
       "name": "AioFunc.dll",
       "version": "1.0.0.0",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AioFunc.dll",
-      "size": 183808
+      "size": 183808,
+	    "md5": "4d0994064ed9d68df5b5cc3f297f0f6c"
     },
     {
       "name": "BencodeNET.dll",
       "version": "2.2.1.0",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/BencodeNET.dll",
-      "size": 48128
+      "size": 48128,
+	    "md5": "4d0994064ed9d68df5b5cc3f297f0f6c"
     },
     {
       "name": "HtmlAgilityPack.dll",
       "version": "1.11.64",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/HtmlAgilityPack.dll",
-      "size": 171008
+      "size": 171008,
+	    "md5": "4d0994064ed9d68df5b5cc3f297f0f6c"
     },
     {
       "name": "Magick.NET-Q16-AnyCPU.dll",
       "version": "13.10.0",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.NET-Q16-AnyCPU.dll",
-      "size": 923432
+      "size": 923432,
+	    "md5": "4d0994064ed9d68df5b5cc3f297f0f6c"
     },
     {
       "name": "Magick.NET.Core.dll",
       "version": "13.10.0",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.NET.Core.dll",
-      "size": 1531320
+      "size": 1531320,
+	    "md5": "4d0994064ed9d68df5b5cc3f297f0f6c"
     },
     {
       "name": "Magick.Native-Q16-arm64.dll",
       "version": "7.1.1.35",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.Native-Q16-arm64.dll",
-      "size": 22327464
+      "size": 22327464,
+	    "md5": "4d0994064ed9d68df5b5cc3f297f0f6c"
     },
     {
       "name": "Magick.Native-Q16-x64.dll",
       "version": "7.1.1.35",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.Native-Q16-x64.dll",
-      "size": 24954664
+      "size": 24954664,
+	    "md5": "4d0994064ed9d68df5b5cc3f297f0f6c"
     },
     {
       "name": "Magick.Native-Q16-x86.dll",
       "version": "7.1.1.35",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.Native-Q16-x86.dll",
-      "size": 21308712
+      "size": 21308712,
+	    "md5": "4d0994064ed9d68df5b5cc3f297f0f6c"
     },
     {
       "name": "Newtonsoft.Json.dll",
       "version": "13.0.1.25517",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Newtonsoft.Json.dll",
-      "size": 701992
+      "size": 701992,
+	    "md5": "4d0994064ed9d68df5b5cc3f297f0f6c"
     },
     {
       "name": "AIOApp.exe",
       "version": "1.2.0.0",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AIOApp.exe",
-      "size": 673792
+      "size": 673792,
+	    "md5": "4d0994064ed9d68df5b5cc3f297f0f6c"
+    },
+    {
+      "name": "AioAppUpdater.exe",
+      "version": "1.0.0.0",
+      "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AioAppUpdater.exe",
+      "size": 54784,
+	    "md5": "4d0994064ed9d68df5b5cc3f297f0f6c"
     }
   ]
 }
