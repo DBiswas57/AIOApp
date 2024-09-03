@@ -67,15 +67,15 @@
       "name": "AIOApp.exe",
       "version": "1.0.0.0",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AIOApp.exe",
-      "size": 676352,
-      "md5": "9e7c196e7d776c2a36dbeefb42730668"
+      "size": 675840,
+      "md5": "58756a9c51c63b0d0cf3a318fb5d8ae7"
     },
     {
       "name": "AioAppUpdater.exe",
       "version": "2.0.0.0",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AioAppUpdater.exe",
-      "size": 61440,
-      "md5": "0657e1d4e04eae9e23e75345107cb7ad"
+      "size": 60928,
+      "md5": "6a23a5ab5d79bc0fed40d9f1373746ed"
     }
   ]
 }
