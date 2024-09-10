@@ -1,13 +1,6 @@
 {
   "files": [
     {
-      "name": "AioFunc.dll",
-      "version": "1.0.0.0",
-      "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AioFunc.dll",
-      "size": 183808,
-      "md5": "c940c59dd798aa7237d92ab06ab7747d"
-    },
-    {
       "name": "BencodeNET.dll",
       "version": "2.2.1.0",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/BencodeNET.dll",
@@ -65,17 +58,32 @@
     },
     {
       "name": "AIOApp.exe",
-      "version": "1.0.0.0",
+      "version": "1.1.0.0",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AIOApp.exe",
-      "size": 675840,
-      "md5": "58756a9c51c63b0d0cf3a318fb5d8ae7"
+      "size": 770048,
+      "md5": "9717da8aeb6f75f5d2c0b10f0b3f400e"
     },
     {
       "name": "AioAppUpdater.exe",
       "version": "2.0.0.0",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AioAppUpdater.exe",
       "size": 60928,
-      "md5": "6a23a5ab5d79bc0fed40d9f1373746ed"
+      "md5": "d5376826caf8cd9831f662a013255b17"
+    },
+	{
+      "name": "AioFunc.dll",
+      "version": "1.1.0.0",
+      "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AioFunc.dll",
+      "size": 265728,
+      "md5": "d447e82fabfe654d74cbd1de1720e924"
+    },
+    {
+      "name": "SimpleWifi.dll",
+      "version": "1.0.0.0",
+      "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/SimpleWifi.dll",
+      "size": 54784,
+      "md5": "51bfd2a36c1f24601e3133c54c8e6799"
     }
+    
   ]
 }
