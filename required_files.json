@@ -58,24 +58,24 @@
     },
     {
       "name": "AIOApp.exe",
-      "version": "1.1.0.0",
+      "version": "1.2.0.0",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AIOApp.exe",
-      "size": 770048,
-      "md5": "9717da8aeb6f75f5d2c0b10f0b3f400e"
+      "size": 791040,
+      "md5": "31234f002a4a51082ce102c22da13fed"
     },
     {
       "name": "AioAppUpdater.exe",
       "version": "2.0.0.0",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AioAppUpdater.exe",
-      "size": 61440,
-      "md5": "7c1c173bc457e242faa4d8a6017eb857"
+      "size": 61952,
+      "md5": "d296969d9fb76f9946c24c6db1dbd77b"
     },
 	{
       "name": "AioFunc.dll",
-      "version": "1.1.0.0",
+      "version": "1.2.0.0",
       "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AioFunc.dll",
-      "size": 265728,
-      "md5": "d447e82fabfe654d74cbd1de1720e924"
+      "size": 296960,
+      "md5": "868a6f6b331e7f723763f7de643655b3"
     },
     {
       "name": "SimpleWifi.dll",
