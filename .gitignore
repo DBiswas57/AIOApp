@@ -4,3 +4,7 @@
 *.config
 *.pdb
 System.Runtime.CompilerServices.Unsafe.dll
+*.so
+*.dylib
+runtimes/win/native/brolib_x64.dll
+runtimes/win/native/brolib_x86.dll
