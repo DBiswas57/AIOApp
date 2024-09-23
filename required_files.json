@@ -64,13 +64,6 @@
       "md5": "51bfd2a36c1f24601e3133c54c8e6799"
     },
     {
-    "Name": "AIOApp.exe",
-    "Version": "1.3.0.0",
-    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AIOApp.exe",
-    "Size": 809984,
-    "Md5": "3513d1be48e13d58383392be472a92a9"
-  },
-  {
     "Name": "AioAppUpdater.exe",
     "Version": "2.0.0.0",
     "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AioAppUpdater.exe",
@@ -78,11 +71,18 @@
     "Md5": "d296969d9fb76f9946c24c6db1dbd77b"
   },
   {
+    "Name": "AIOApp.exe",
+    "Version": "1.5.1.0",
+    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AIOApp.exe",
+    "Size": 788480,
+    "Md5": "d2f06b74271582e04895f2295454a213"
+  },
+  {
     "Name": "AioFunc.dll",
-    "Version": "1.3.0.0",
+    "Version": "1.4.1.0",
     "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AioFunc.dll",
-    "Size": 306176,
-    "Md5": "9063e206c2ad68be2761d20380b1004f"
+    "Size": 250880,
+    "Md5": "a1b8a39a49e18d19d4489880bd6ca900"
   }
     
   ]
