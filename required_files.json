@@ -4,22 +4,22 @@
     "Name": "AIOApp.exe",
     "Version": "1.6.0.0",
     "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AIOApp.exe",
-    "Size": 824320,
-    "Md5": "22691ec5ddaf83f6f068f7060a067a57"
+    "Size": 824832,
+    "Md5": "f5009f06d1e2d8087994a501abd65d46"
   },
   {
     "Name": "AioAppUpdater.exe",
     "Version": "2.1.0.0",
     "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AioAppUpdater.exe",
-    "Size": 55296,
-    "Md5": "b5aec6a016d8e71adc7773af8b6a53fe"
+    "Size": 56320,
+    "Md5": "892eadd3f5e07dce622de6118aaca1ac"
   },
   {
     "Name": "AioFunc.dll",
     "Version": "1.6.0.0",
     "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AioFunc.dll",
     "Size": 263168,
-    "Md5": "3ce86bc070e63705b30e28721ad911a4"
+    "Md5": "8f3f252e9d5116b9c009992d16d12ae9"
   },
   {
     "Name": "BencodeNET.dll",
