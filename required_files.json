@@ -104,13 +104,6 @@
     "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/System.Numerics.Vectors.dll",
     "Size": 115856,
     "Md5": "aaa2cbf14e06e9d3586d8a4ed455db33"
-  },
-  {
-    "Name": "System.Runtime.CompilerServices.Unsafe.dll",
-    "Version": "4.6.26919.02",
-    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/System.Runtime.CompilerServices.Unsafe.dll",
-    "Size": 23600,
-    "Md5": "d9e308fe5f1ac35ce823964288da1ba5"
   }
     
   ]
