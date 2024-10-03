@@ -1,88 +1,116 @@
 {
   "files": [
     {
-      "name": "BencodeNET.dll",
-      "version": "2.2.1.0",
-      "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/BencodeNET.dll",
-      "size": 48128,
-      "md5": "64cf723b5cd868d14b6b009e3dced913"
-    },
-    {
-      "name": "HtmlAgilityPack.dll",
-      "version": "1.11.64",
-      "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/HtmlAgilityPack.dll",
-      "size": 171008,
-      "md5": "99a8a1b9bd2a9473b0dcb26a1386e7e8"
-    },
-    {
-      "name": "Magick.NET-Q16-AnyCPU.dll",
-      "version": "13.10.0",
-      "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.NET-Q16-AnyCPU.dll",
-      "size": 923432,
-      "md5": "63454dd8a1f5fd655b9d4060d3149823"
-    },
-    {
-      "name": "Magick.NET.Core.dll",
-      "version": "13.10.0",
-      "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.NET.Core.dll",
-      "size": 1531320,
-      "md5": "5f2949a505fb45ad6cb4e5635dd5470a"
-    },
-    {
-      "name": "Magick.Native-Q16-arm64.dll",
-      "version": "7.1.1.35",
-      "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.Native-Q16-arm64.dll",
-      "size": 22327464,
-      "md5": "582808f9aeafd42939f14783c96a03d1"
-    },
-    {
-      "name": "Magick.Native-Q16-x64.dll",
-      "version": "7.1.1.35",
-      "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.Native-Q16-x64.dll",
-      "size": 24954664,
-      "md5": "a04d17201ab95638ffd83db4822160e0"
-    },
-    {
-      "name": "Magick.Native-Q16-x86.dll",
-      "version": "7.1.1.35",
-      "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.Native-Q16-x86.dll",
-      "size": 21308712,
-      "md5": "fb6aaddbcf73789abefa37b3fc89d876"
-    },
-    {
-      "name": "Newtonsoft.Json.dll",
-      "version": "13.0.1.25517",
-      "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Newtonsoft.Json.dll",
-      "size": 701992,
-      "md5": "081d9558bbb7adce142da153b2d5577a"
-    },
-    {
-      "name": "SimpleWifi.dll",
-      "version": "1.0.0.0",
-      "url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/SimpleWifi.dll",
-      "size": 54784,
-      "md5": "51bfd2a36c1f24601e3133c54c8e6799"
-    },
-    {
-    "Name": "AioAppUpdater.exe",
-    "Version": "2.0.0.0",
-    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AioAppUpdater.exe",
-    "Size": 61952,
-    "Md5": "d296969d9fb76f9946c24c6db1dbd77b"
+    "Name": "AIOApp.exe",
+    "Version": "1.6.0.0",
+    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AIOApp.exe",
+    "Size": 824320,
+    "Md5": "22691ec5ddaf83f6f068f7060a067a57"
   },
   {
-    "Name": "AIOApp.exe",
-    "Version": "1.5.1.0",
-    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AIOApp.exe",
-    "Size": 788480,
-    "Md5": "d2f06b74271582e04895f2295454a213"
+    "Name": "AioAppUpdater.exe",
+    "Version": "2.1.0.0",
+    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AioAppUpdater.exe",
+    "Size": 55296,
+    "Md5": "b5aec6a016d8e71adc7773af8b6a53fe"
   },
   {
     "Name": "AioFunc.dll",
-    "Version": "1.4.1.0",
+    "Version": "1.6.0.0",
     "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AioFunc.dll",
-    "Size": 250880,
-    "Md5": "a1b8a39a49e18d19d4489880bd6ca900"
+    "Size": 263168,
+    "Md5": "3ce86bc070e63705b30e28721ad911a4"
+  },
+  {
+    "Name": "BencodeNET.dll",
+    "Version": "2.2.1.0",
+    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/BencodeNET.dll",
+    "Size": 48128,
+    "Md5": "64cf723b5cd868d14b6b009e3dced913"
+  },
+  {
+    "Name": "HtmlAgilityPack.dll",
+    "Version": "1.11.67",
+    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/HtmlAgilityPack.dll",
+    "Size": 171008,
+    "Md5": "1852363f1e79565f2ea25361624a5875"
+  },
+  {
+    "Name": "Magick.Native-Q16-arm64.dll",
+    "Version": "7.1.1.38",
+    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.Native-Q16-arm64.dll",
+    "Size": 22457784,
+    "Md5": "9c2cebb5ef02cc4b7d5003214a2cee70"
+  },
+  {
+    "Name": "Magick.Native-Q16-x64.dll",
+    "Version": "7.1.1.38",
+    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.Native-Q16-x64.dll",
+    "Size": 25142056,
+    "Md5": "788c7d79e142ffbc14f1c0bd7c15d6c4"
+  },
+  {
+    "Name": "Magick.Native-Q16-x86.dll",
+    "Version": "7.1.1.38",
+    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.Native-Q16-x86.dll",
+    "Size": 21441464,
+    "Md5": "9925e3e2f9315572c89c3e373291bcee"
+  },
+  {
+    "Name": "Magick.NET.Core.dll",
+    "Version": "14.0.0",
+    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.NET.Core.dll",
+    "Size": 1526568,
+    "Md5": "724fe6af84116a31a4500a0ba77959e7"
+  },
+  {
+    "Name": "Magick.NET-Q16-AnyCPU.dll",
+    "Version": "14.0.0",
+    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Magick.NET-Q16-AnyCPU.dll",
+    "Size": 905656,
+    "Md5": "fcb90f7285491223171b7c6f39d8e41e"
+  },
+  {
+    "Name": "Newtonsoft.Json.dll",
+    "Version": "13.0.1.25517",
+    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Newtonsoft.Json.dll",
+    "Size": 701992,
+    "Md5": "081d9558bbb7adce142da153b2d5577a"
+  },
+  {
+    "Name": "SimpleWifi.dll",
+    "Version": "1.0.0.0",
+    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/SimpleWifi.dll",
+    "Size": 54784,
+    "Md5": "51bfd2a36c1f24601e3133c54c8e6799"
+  },
+  {
+    "Name": "System.Buffers.dll",
+    "Version": "4.6.28619.01",
+    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/System.Buffers.dll",
+    "Size": 20856,
+    "Md5": "ecdfe8ede869d2ccc6bf99981ea96400"
+  },
+  {
+    "Name": "System.Memory.dll",
+    "Version": "4.6.31308.01",
+    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/System.Memory.dll",
+    "Size": 142240,
+    "Md5": "f09441a1ee47fb3e6571a3a448e05baf"
+  },
+  {
+    "Name": "System.Numerics.Vectors.dll",
+    "Version": "4.6.26515.06",
+    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/System.Numerics.Vectors.dll",
+    "Size": 115856,
+    "Md5": "aaa2cbf14e06e9d3586d8a4ed455db33"
+  },
+  {
+    "Name": "System.Runtime.CompilerServices.Unsafe.dll",
+    "Version": "4.6.26919.02",
+    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/System.Runtime.CompilerServices.Unsafe.dll",
+    "Size": 23600,
+    "Md5": "d9e308fe5f1ac35ce823964288da1ba5"
   }
     
   ]
