@@ -4,8 +4,8 @@
     "Name": "AIOApp.exe",
     "Version": "1.6.2.0",
     "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AIOApp.exe",
-    "Size": 834048,
-    "Md5": "cf2a570229952a19d75eec666ec7a459"
+    "Size": 840192,
+    "Md5": "ffb8ca52729dc65ae7e749c0353a78bb"
   },
   {
     "Name": "AioAppUpdater.exe",
@@ -18,15 +18,15 @@
     "Name": "AioFunc.dll",
     "Version": "1.6.1.0",
     "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AioFunc.dll",
-    "Size": 263168,
-    "Md5": "da598775759a5bb186c31642a2fabf6d"
+    "Size": 264192,
+    "Md5": "b3fefae297dd89ccc19b7ea1b163ee3c"
   },
   {
     "Name": "AxInterop.WMPLib.dll",
     "Version": "1.0.0.0",
     "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AxInterop.WMPLib.dll",
     "Size": 53760,
-    "Md5": "a11167094cba904e83d452a612912bc3"
+    "Md5": "f54ce88b101954b3f3a85e069fb6ff36"
   },
   {
     "Name": "BencodeNET.dll",
@@ -47,7 +47,7 @@
     "Version": "1.0.0.0",
     "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Interop.WMPLib.dll",
     "Size": 330752,
-    "Md5": "d7028dd0f247013571ee49a54da4b25d"
+    "Md5": "f823e88f8b06faf734bc1da5c01c9859"
   },
   {
     "Name": "Magick.Native-Q16-arm64.dll",
