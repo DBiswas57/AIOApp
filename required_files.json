@@ -1,25 +1,25 @@
 {
   "files": [
     {
-    "Name": "AIOApp.exe",
-    "Version": "1.6.3.0",
-    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AIOApp.exe",
-    "Size": 843776,
-    "Md5": "d17a2e3fe3a9bb1d4d72ed0359bbc1b1"
-  },
-  {
     "Name": "AxInterop.WMPLib.dll",
     "Version": "1.0.0.0",
     "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AxInterop.WMPLib.dll",
     "Size": 53760,
-    "Md5": "a3f5618c53715bf740a8694fa661033f"
+    "Md5": "45e235b63929dc09f49f675836614bdf"
   },
   {
     "Name": "Interop.WMPLib.dll",
     "Version": "1.0.0.0",
     "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Interop.WMPLib.dll",
     "Size": 330752,
-    "Md5": "82d930717071b0caf8aec9f5615eba0b"
+    "Md5": "e1149945a84f61c0a801f7cb512cfef5"
+  },
+  {
+    "Name": "AIOApp.exe",
+    "Version": "1.6.3.0",
+    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AIOApp.exe",
+    "Size": 844288,
+    "Md5": "e77f819fed233ca50d6dcfba3e6742c1"
   },
   {
     "Name": "AioAppUpdater.exe",
