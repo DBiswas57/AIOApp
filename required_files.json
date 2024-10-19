@@ -1,39 +1,39 @@
 {
   "files": [
     {
-    "Name": "AxInterop.WMPLib.dll",
-    "Version": "1.0.0.0",
-    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AxInterop.WMPLib.dll",
-    "Size": 53760,
-    "Md5": "45e235b63929dc09f49f675836614bdf"
-  },
-  {
-    "Name": "Interop.WMPLib.dll",
-    "Version": "1.0.0.0",
-    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Interop.WMPLib.dll",
-    "Size": 330752,
-    "Md5": "e1149945a84f61c0a801f7cb512cfef5"
-  },
-  {
     "Name": "AIOApp.exe",
-    "Version": "1.6.3.0",
+    "Version": "1.7.0.0",
     "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AIOApp.exe",
-    "Size": 844288,
-    "Md5": "e77f819fed233ca50d6dcfba3e6742c1"
+    "Size": 862720,
+    "Md5": "f9200689ffb581da3b5929d68c4d200c"
+  },
+  {
+    "Name": "AIOApp_Setup.exe",
+    "Version": "1.7.0.0",
+    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AIOApp_Setup.exe",
+    "Size": 6688494,
+    "Md5": "55be360b2daffb93144250d9e2c44a5f"
   },
   {
     "Name": "AioAppUpdater.exe",
     "Version": "2.2.0.0",
     "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AioAppUpdater.exe",
     "Size": 56320,
-    "Md5": "a4335e553408a7509af58818bee74f8f"
+    "Md5": "c6c51ffee2f7381366fe49636ef9d248"
   },
   {
     "Name": "AioFunc.dll",
-    "Version": "1.6.1.0",
+    "Version": "1.7.0.0",
     "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AioFunc.dll",
-    "Size": 264192,
-    "Md5": "b3fefae297dd89ccc19b7ea1b163ee3c"
+    "Size": 292864,
+    "Md5": "83957e04e5cb82dd82f4ff4ca863c667"
+  },
+  {
+    "Name": "AxInterop.WMPLib.dll",
+    "Version": "1.0.0.0",
+    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AxInterop.WMPLib.dll",
+    "Size": 53760,
+    "Md5": "2eb329f750893b42fa6840864def8bec"
   },
   {
     "Name": "BencodeNET.dll",
@@ -43,11 +43,39 @@
     "Md5": "64cf723b5cd868d14b6b009e3dced913"
   },
   {
+    "Name": "Guna.UI2.dll",
+    "Version": "2.0.4.6",
+    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Guna.UI2.dll",
+    "Size": 2161544,
+    "Md5": "c19e9e6a4bc1b668d19505a0437e7f7e"
+  },
+  {
     "Name": "HtmlAgilityPack.dll",
     "Version": "1.11.67",
     "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/HtmlAgilityPack.dll",
     "Size": 171008,
     "Md5": "1852363f1e79565f2ea25361624a5875"
+  },
+  {
+    "Name": "HtmlRenderer.dll",
+    "Version": "1.5.0.6",
+    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/HtmlRenderer.dll",
+    "Size": 222208,
+    "Md5": "c7a2b6423eedc71f17dae94342786006"
+  },
+  {
+    "Name": "HtmlRenderer.WinForms.dll",
+    "Version": "1.5.0.6",
+    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/HtmlRenderer.WinForms.dll",
+    "Size": 60416,
+    "Md5": "480644f4f3f81cc4657e63aaa27bde71"
+  },
+  {
+    "Name": "Interop.WMPLib.dll",
+    "Version": "1.0.0.0",
+    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Interop.WMPLib.dll",
+    "Size": 330752,
+    "Md5": "12e86edaa3c45d2f48046f6da84e82ab"
   },
   {
     "Name": "Magick.Native-Q16-arm64.dll",
@@ -85,6 +113,27 @@
     "Md5": "fcb90f7285491223171b7c6f39d8e41e"
   },
   {
+    "Name": "MetroSuite 2.0.dll",
+    "Version": "2.0.1.9",
+    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/MetroSuite 2.0.dll",
+    "Size": 312832,
+    "Md5": "0d30a398cec0ff006b6ea2b52d11e744"
+  },
+  {
+    "Name": "MicroCom.Runtime.dll",
+    "Version": "0.11.0.0",
+    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/MicroCom.Runtime.dll",
+    "Size": 14336,
+    "Md5": "140247ff6d09f587157738e93e124c98"
+  },
+  {
+    "Name": "Microsoft.Bcl.AsyncInterfaces.dll",
+    "Version": "6.0.21.52210",
+    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Microsoft.Bcl.AsyncInterfaces.dll",
+    "Size": 22144,
+    "Md5": "48efe61d6ca3054309907b532d576d2a"
+  },
+  {
     "Name": "Newtonsoft.Json.dll",
     "Version": "13.0.1.25517",
     "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/Newtonsoft.Json.dll",
@@ -118,6 +167,20 @@
     "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/System.Numerics.Vectors.dll",
     "Size": 115856,
     "Md5": "aaa2cbf14e06e9d3586d8a4ed455db33"
+  },
+  {
+    "Name": "System.Threading.Tasks.Extensions.dll",
+    "Version": "4.6.28619.01",
+    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/System.Threading.Tasks.Extensions.dll",
+    "Size": 25984,
+    "Md5": "e1e9d7d46e5cd9525c5927dc98d9ecc7"
+  },
+  {
+    "Name": "System.ValueTuple.dll",
+    "Version": "4.6.26515.06",
+    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/System.ValueTuple.dll",
+    "Size": 25232,
+    "Md5": "23ee4302e85013a1eb4324c414d561d5"
   }
     
   ]
