@@ -8,13 +8,6 @@
     "Md5": "f9200689ffb581da3b5929d68c4d200c"
   },
   {
-    "Name": "AIOApp_Setup.exe",
-    "Version": "1.7.0.0",
-    "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AIOApp_Setup.exe",
-    "Size": 6688494,
-    "Md5": "55be360b2daffb93144250d9e2c44a5f"
-  },
-  {
     "Name": "AioAppUpdater.exe",
     "Version": "2.2.0.0",
     "Url": "https://raw.githubusercontent.com/DBiswas57/AIOApp/Dl/AioAppUpdater.exe",
